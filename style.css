@@ -1,0 +1,51 @@
+#navbar {
+  background-color: lavender;
+  position: fixed;
+  height: 100%;
+  min-width: 250px;
+  top: 0px;
+  left: 0px;
+}
+nav header {
+  font-family: "Bookman Old Style";
+  font-size: 25px;
+  padding: 20px 20px;
+  text-transform: uppercase;
+  margin-left: 20px;
+  background-color: lavender;
+}
+#navbar li {
+  list-style: none;
+  font-family: Bookman Old Style;
+  font-size: 17px;
+  background-color: lavender;
+}
+#navbar a {
+  display: block;
+  padding: 10px 0px;
+  color: teal;
+  text-decoration: none;
+  background-color: lavender;
+}
+#main-doc {
+  margin-left: 240px;
+  padding: 30px;
+  }
+
+header{
+  font-family: "Bookman Old Style";
+  font-size: 25px;
+  padding: 20px 20px;
+  margin-left: -20px;
+}
+p {
+  font-family: Garamond;
+  text-align: justify;
+  padding: 20px 20px;
+  }
+
+@media only screen and (max-width: 600px) {
+  nav {
+   display: none;
+  }
+}
