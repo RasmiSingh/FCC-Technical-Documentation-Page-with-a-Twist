@@ -1,7 +1,7 @@
 # freeCodeCamp Technical Documentation Page
 - with a Twist
 
-This is a project I did for the Responsive Web Design Certification on freeCodeCamp. The project is to develop a technical documentation page.  I come from an economics background, so to add a twist - this technical documentation is about Trade Blocs!
+This is a project I did for the Responsive Web Design Certification on freeCodeCamp. The project is to develop a technical documentation page.  I have an economics degree so - to add a twist - this technical documentation is about Trade Blocs!
 
 The User Stories are given below. This was taken from freeCodeCamp. I had to fulfil all the user stories to pass the test. 
 User Story #1:
